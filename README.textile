@@ -1,0 +1,13 @@
+h1. Talent War
+
+There's a talent war going on in NYC! (http://www.wired.com/epicenter/2010/12/war-for-talent-hits-new-york/)
+
+Spider the social graph of a geographic subset of GitHub users and rank them by network-analysis metrics.
+
+h2. Running the ranker
+
+TBD
+
+h2. Credit
+
+Inspired by https://github.com/mattb/flotsam/tree/master/github-recruitment
