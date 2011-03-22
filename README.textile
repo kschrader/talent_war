@@ -4,6 +4,8 @@ There's a talent war going on in NYC! (http://www.wired.com/epicenter/2010/12/wa
 
 Spider the social graph of a geographic subset of GitHub users and rank them by network-analysis metrics.
 
+This is a rewrite of https://github.com/kschrader/github_recruitment so that I can play with Clojure.
+
 h2. Running the ranker
 
 TBD
